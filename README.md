@@ -44,7 +44,7 @@
 
  <h2>License</h2>
 
-  <p>This project is licensed under the MIT License. See the <a href="(https://github.com/Yashi-Singh-1/Survey-Form?tab=MIT-1-ov-file)">LICENSE</a> file for details.</p>
+  <p>This project is licensed under the MIT License. See the <a href="https://github.com/Yashi-Singh-1/Survey-Form?tab=MIT-1-ov-file"> LICENSE </a> file for details.</p>
 
   <h2>Credits</h2>
 
